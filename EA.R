@@ -1,7 +1,7 @@
 rm(list = ls())
 
 # Set working directory
-setwd("C:/Users/Krishna/Google Drive/Data Science/Project/Edwisor/Project 1")
+setwd("D:/Data Science/Datasets/Employee Absenteeism")
 
 
 # Importing required libraries
